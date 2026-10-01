@@ -58,6 +58,20 @@ pip install requests beautifulsoup4 pandas lxml
 
 Then run the scraper and export the resulting DataFrame to CSV.
 
+## Dataset
+
+The scraped dataset is also available on Kaggle.
+
+[View Dataset on Kaggle](https://www.kaggle.com/datasets/utkarshdixit050/lucknow-jobs)
+
+| Column | Description |
+|---|---|
+| `Company_Name` | Name of the hiring company |
+| `Job` | Job title |
+| `Place` | Job location |
+| `Work_Type` | Work arrangement such as Work from Home, Work from Office, or Field Job |
+| `Job_Type` | Full Time or Part Time |
+
 ## Project Purpose
 
 This project was created as a hands-on practice project for Python web scraping, HTML parsing, data collection, and data preprocessing using job listing data.
